@@ -7,7 +7,7 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'home-car': "url('tesla001.webp')",
+        'home-car': "url('Home.avif')",
       }
     },
   },
