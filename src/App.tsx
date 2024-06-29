@@ -1,6 +1,8 @@
 import { Footer } from "./components/Footer"
 import { Header } from "./components/Header"
-import { HomePage } from "./pages/HomePage"
+import { Model3 } from "./pages/Model3"
+import { ModelY } from "./pages/ModelY"
+
 
 
 
@@ -9,15 +11,14 @@ function App() {
 
   return (
     <>
-      <div className="relative bg-home-car h-screen bg-center bg-cover ">
+      <div className="relative bg-model3 h-screen bg-center bg-cover ">
         <Header />
-        <p className='text-6xl'>
-          Hello angel
-        </p>
-        <HomePage />
-        <Footer />
+        
+        <Model3 />
+        
       </div>
-      
+      <ModelY />
+      <Footer />
     </>
   )
 }

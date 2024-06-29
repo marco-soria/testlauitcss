@@ -7,7 +7,8 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'home-car': "url('Home.avif')",
+        'model3': "url('Model3.avif')",
+        'modely': "url('ModelY.avif')",
       }
     },
   },
