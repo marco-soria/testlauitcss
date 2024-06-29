@@ -6,9 +6,9 @@ export const ModelY = () => {
             <div
                 className="flex flex-col absolute top-40 left-[50%] translate-x-[-50%]"
                 >
-                <h1 className="text-[40px] m-auto font-bold">Model 3</h1>
+                <h1 className="text-[40px] m-auto font-bold">Model Y</h1>
                 <p className="whitespace-nowrap pt-1 text-[24px]">
-                    Long Range AWD From $34,990<sup>1</sup>
+                    From $31,490<sup>2</sup>
 
                     
                 </p>
