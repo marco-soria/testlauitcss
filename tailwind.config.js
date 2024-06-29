@@ -7,15 +7,15 @@ export default {
   theme: {
     extend: {
       backgroundImage: {
-        'model3': "url('Model3.avif')",
-        'modely': "url('ModelY.avif')",
-        'modelx': "url('ModelX.avif')",
-        'models': "url('ModelS.avif')",
-        'cyberpunk': "url('cyberpunk.avif')",
-        'solarpanels': "url('solarpanels.avif')",
-        'solarroof': "url('solarroof.avif')",
-        'powerwall': "url('powerwall.avif')",
-        'accessories': "url('accessories.avif')",
+        'model3': "url('/Model3.avif')",
+        'modely': "url('/ModelY.avif')",
+        'modelx': "url('/ModelX.avif')",
+        'models': "url('/ModelS.avif')",
+        'cyberpunk': "url('/cyberpunk.avif')",
+        'solarpanels': "url('/solarpanels.avif')",
+        'solarroof': "url('/solarroof.avif')",
+        'powerwall': "url('/powerwall.avif')",
+        'accessories': "url('/accessories.avif')",
       }
     },
   },
